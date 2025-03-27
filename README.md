@@ -20,14 +20,14 @@ If you are looking for a skilled and experienced frontend developer to create a 
 ---
 
 ## 📩 Reach me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olaleye349@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayscript_js)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayscript&show_icons=true&theme=dark" alt="Ayscript's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayscript&show_icons=true&theme=tokyonight" alt="Ayscript's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayscript&theme=dark" alt="Ayscript's GitHub Streak" />
 </p>
@@ -40,6 +40,3 @@ If you are looking for a skilled and experienced frontend developer to create a 
 </p>
 
 ---
-
-## 🙋‍♂️ What else to know about me...
-💡 I'm currently learning layered system architecture and how to write clean code.
