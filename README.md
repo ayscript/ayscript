@@ -29,7 +29,6 @@ If you are looking for a skilled and experienced frontend developer to create a 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayscript&show_icons=true&theme=tokyonight" alt="Ayscript's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayscript&theme=dark" alt="Ayscript's GitHub Streak" />
 </p>
 
 ---
