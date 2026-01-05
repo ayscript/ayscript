@@ -1,7 +1,7 @@
 # Hi there, Welcome! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Ayomide&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20based%20in%20Nigeria&descAlignY=55&descAlign=50" alt="Ayomide Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=I'm%20Ayomide&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20based%20in%20Nigeria&descAlignY=55&descAlign=50" alt="Ayomide Header" />
 </div>
 
 <div align="center">
